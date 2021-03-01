@@ -109,3 +109,10 @@
     margin-top: 0.375rem;
     letter-spacing: 0.1rem;
   }
+  footer{
+      text-align: center;
+      margin-top: -20px;
+  }
+  .attribution{
+      color: var(--darkGrayishBlue);
+  }
